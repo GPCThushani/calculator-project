@@ -20,3 +20,6 @@ This project was created to practice front-end development skills and basic DOM 
 4. Press `C` to clear the display.
 
 ## Screenshots
+<img width="648" height="428" alt="image" src="https://github.com/user-attachments/assets/73e1992a-d4fb-4629-a6b9-646eec005f95" />
+<img width="650" height="420" alt="image" src="https://github.com/user-attachments/assets/8618cdae-0c0d-466f-9e50-62d072e2e1e9" />
+
